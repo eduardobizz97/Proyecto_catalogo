@@ -1,0 +1,96 @@
+﻿html, body {
+    height: 100%;
+}
+
+    body.my-login-page {
+        background-color: #f7f9fb;
+        font-size: 14px;
+    }
+
+
+
+.my-login-page .card-wrapper {
+    width: 400px;
+    margin-top: 90px;
+}
+
+
+
+.my-login-page .card {
+    border-color: transparent;
+    box-shadow: 0 4px 8px rgba(0,0,0,.05);
+}
+
+    .my-login-page .card.fat {
+        padding: 10px;
+    }
+
+    .my-login-page .card .card-title {
+        margin-bottom: 30px;
+    }
+
+.my-login-page .form-control {
+    border-width: 2.3px;
+}
+
+.my-login-page .form-group label {
+    width: 100%;
+}
+
+.my-login-page .btn.btn-block {
+    padding: 12px 10px;
+}
+
+.my-login-page .footer {
+    margin: 40px 0;
+    color: #888;
+    text-align: center;
+}
+
+@media screen and (max-width: 425px) {
+    .my-login-page .card-wrapper {
+        width: 90%;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .my-login-page .card.fat {
+        padding: 0;
+    }
+
+        .my-login-page .card.fat .card-body {
+            padding: 15px;
+        }
+}
+
+#botonlogin {
+    color: #f7f9fb;
+    background-color: #8a2be2;
+}
+
+#titulo {
+    font-weight: bold;
+    color: #8a2be2;
+}
+
+#boton1 {
+    width: 150px;
+    border-radius: 10px;
+    font-weight: bold;
+    background-color: #ffc0cb;
+    color: #8a2be2;
+    border: 2px solid #ffc0cb;
+}
+
+#boton2 {
+    border: 2px solid #8a2be2;
+    font-weight: bold;
+    font-weight: bold;
+    border-radius: 10px;
+    background-color: #8a2be2;
+}
+
+#textonav {
+    font-weight: bold;
+}
