@@ -91,7 +91,7 @@
                                         </button>
                                     </div>
                                     <div class="mt-4 text-center">
-                                        ¿No tienes cuenta? <a href="register.html">Registrate aquí</a>
+                                        ¿No tienes cuenta?? <a href="register.html">Registrate aquí</a>
                                     </div>
                                 </form>
                             </div>
